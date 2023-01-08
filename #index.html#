@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta property='og:type' content='website'>
+  <meta property='og:title' content='八雲水曜日テニスサークル'>
+  <meta property='og:url' content='URLが入る'>
+  <meta property='og:description' content='八雲水曜日テニスサークルのサイトです。'>
+  <meta property="og:image" content="img/ogp.png">
+  <meta name="description" content="八雲水曜日テニスサークルのサイトです" />
+  <title>八雲水曜日テニスサークル</title>
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Material+Icons+Outlined" rel="stylesheet">
+  <link href="css/ress.css" media="all" rel="stylesheet" type="text/css" />
+  <link href="css/style.css" media="all" rel="stylesheet" type="text/css" />
+  <link rel="shortcut icon" href="img/favicon.ico" />
+  <link rel=”canonical” href=”URLが入る” />
+</head>
+
+<body>
+  <div class="wrapper">
+
+    <!-- header -->
+    <header class="header ">
+      <div class="container">
+        <h1 class="header-logo">
+          <a href=".">YWT</a>
+        </h1>
+        <nav class="gnav">
+          <ul class="gnav-list">
+            <li class="gnav-item"><a href="#works">CONTENT/内容</a></li>
+            <li class="gnav-item"><a href="#skill">RECRUIT/募集</a></li>
+            <li class="gnav-item"><a href="#about">ABOUT/アバウト</a></li>
+            <li class="gnav-item"><a href="#contact">CONTACT/コンタクト</a></li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+    <!-- /header -->
+
+    <main class="content">
+
+      <!-- mv -->
+      <div class="mv">
+        <div class="mv-container">
+          <p class="mv-title">八雲水曜テニス</p>
+          <p class="mv-subtitle">Yakumo Wednesday Tennis</p>
+          <p class="mv-text">
+            毎週水曜日の19:30〜22:00に<br>
+            松江市八雲中央公園の<br>
+            テニスコート場で活動しています。
+          </p>
+        </div>
+      </div>
+      <!-- /mv -->
+
+      <!-- works -->
+      <section class="works section" id="works">
+        <div class="container">
+          <h2 class="title">CONTENT</h2>
+          <div class="works-list">
+            <a class="works-item" href="works-wine-bar.html">
+              <div class="works-img"><img src="img/content_01.jpg" alt="" /></div>
+              <p class="works-name">レベル</p>
+              <p class="works-info">level</p>
+            </a>
+            <a class="works-item" href="works-grape-plantation.html">
+              <div class="works-img"><img src="img/content_02.jpg" alt="" /></div>
+              <p class="works-name">年齢層</p>
+              <p class="works-info">Age group</p>
+            </a>
+            <a class="works-item" href="works-wedding-hall.html">
+              <div class="works-img"><img src="img/content_03.jpgg" alt="" /></div>
+              <p class="works-name">人数</p>
+              <p class="works-info">Number of people</p>
+            </a>
+          </div>
+        </div>
+      </section>
+      <!-- /works -->
+
+      <!-- skill -->
+      <section class="skill section" id="skill">
+        <div class="container">
+          <h2 class="title">RECRUIT</h2>
+          <div class="skill-list">
+            <div class="skill-item">
+              <p class="skill-img"><img src="img/experience.png" alt=""></p>
+              <div class="skill-body">
+                <h3 class="skill-name">初中級</h3>
+                <p class="skill-text">
+                  メインはダブルスのショートゲームを行うので初級〜中級のレベルの方は楽しくテニスが行えると思います。</p>
+              </div>
+            </div>
+            <div class="skill-item">
+              <p class="skill-img"><img src="img/experience.png" alt=""></p>
+              <div class="skill-body">
+                <h3 class="skill-name">スポットで参加大歓迎</h3>
+                <p class="skill-text">
+                  初回見学プレー後、ご希望の方はグループラインに招待いたします。<br>
+                  お友達をお誘いの上お気軽にご参加お待ちしております。
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <!-- /skill -->
+
+      <!-- about -->
+      <section class="about section" id="about">
+        <div class="container">
+          <h2 class="title">ABOUT</h2>
+          <div class="profile">
+            <p class="profile-img">
+              <img src="img/about_01.jpg" alt="">
+            </p>
+            <div class="profile-body">
+              <p>
+                オムニコートで実施
+                会費は参加毎にコート代、照明代、
+                ボール代として400/回を標準としています。<br>
+                テニス365にて募集をしております。<br>
+                リンクはこちら<br>
+                https://amigo.tennis365.net/circle/U016.php?circle_id=10018<br>
+                松江市民大会のB級にて団体戦とダブルス参加実績もあります。<br>
+                テニスだけではなく、飲み会なども開催しております。<br>
+                興味を持って頂ける方はCONTACTに連絡先が記載してあるのでご連絡お待ちしております。
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
+      <!-- /about -->
+
+      <!-- contact -->
+      <section class="contact section" id="contact">
+        <div class="container">
+          <h2 class="title">CONTACT</h2>
+          <p class="lead">
+            お問い合わせは、<br class="sp-only">SNSかメールにてお願いいたします。
+          </p>
+          <div class="contact-list">
+            <a class="contact-item" href="https://twitter.com/" target="_blank" rel="noopener"><img src="img/2021 Twitter logo - blue.png" width="30" height="30"></a>
+            <a class="contact-item" href="https://www.instagram.com/" target="_blank" rel="noopener"><img src="img/Instagram_Glyph_Gradient_RGB.png" width="30" height="30"></a>
+            <span class="contact-item"><img src="img/mail.png" width="30" height="30"></span>
+          </div>
+        </div>
+      </section>
+      <!-- /contact -->
+      <div class="page-top" id="js-page-top">
+        <span class="material-icons-outlined">expand_less</span>
+      </div>
+    </main>
+
+    <!-- footer -->
+    <footer class="footer">
+      <div class="copyright">&copy;八雲テニスサークル</div>
+    </footer>
+    <!-- /footer -->
+
+  </div>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+  <script type='text/javascript' src="js/script.js"></script>
+</body>
+</html>
