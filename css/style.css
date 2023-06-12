@@ -151,6 +151,49 @@ img {
   padding: 0 40px;
 }
 
+.spain-img {
+  width: 40px;
+  margin: Auto;
+  width: 30px;
+}
+
+.tournament {
+  text-align: center;
+  font-size: 20px;
+  color: pink;
+  margin: 0;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+.support-title {
+  text-align: center;
+  font-size: 58px;
+  color: pink;
+  margin-bottom: 20px;
+}
+
+.support-subtitle {
+  text-align: center;
+  font-size: 40px;
+  color: pink;
+  margin-bottom: 20px;
+}
+
+.matsue-support-title {
+  text-align: center;
+  font-size: 30px;
+  color: pink;
+  margin-bottom: 20px;
+}
+
+.matsue-support-subtitle {
+  text-align: center;
+  font-size: 20px;
+  color: pink;
+  margin-bottom: 80px;
+}
+
 .mv-title {
   font-size: 60px;
   font-weight: bold;
@@ -169,6 +212,7 @@ img {
 .mv-text {
   font-size: 16px;
   line-height: 1.8;
+  margin-bottom: 150px;
 }
 
 /*--------------------------------
@@ -446,6 +490,43 @@ img {
 
   .mv-container {
     padding: 0 20px;
+  }
+
+  .spain-img {
+    margin: Auto;
+    width: 30px;
+
+  }
+
+  .tournament {
+    font-size: 15px;
+    color: pink;
+    margin: 0;
+    margin-bottom: 20px;
+  }
+
+  .support-title {
+    font-size: 38px;
+    color: pink;
+    margin-bottom: 20px;
+  }
+
+  .support-subtitle {
+    font-size: 20px;
+    color: pink;
+    margin-bottom: 20px;
+  }
+
+  .matsue-support-title {
+    font-size: 20px;
+    color: pink;
+    margin-bottom: 20px;
+  }
+
+  .matsue-support-subtitle {
+    font-size: 15px;
+    color: pink;
+    margin-bottom: 40px;
   }
 
   .mv-title {
